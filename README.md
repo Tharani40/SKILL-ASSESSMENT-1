@@ -10,6 +10,8 @@
 - In TM waves, the magnetic field has no component along the direction of propagation.
 -  However, the electric field possesses a longitudinal component, aligning partially with the wave's travel path
 
+<img width="675" height="449" alt="image" src="https://github.com/user-attachments/assets/41bb0856-6c14-48e2-bdc3-331b384182b6" />
+
 ## WHAT IS TE WAVES?
 
 ## INTRODUCTION
@@ -80,3 +82,32 @@ In microwave communication systems and radar waveguides, TE₁₀ mode is prefer
 •	Provides uniform field distribution — ideal for consistent power transmission.
 
 For example, radar antennas and microwave ovens use TE₁₀ mode for efficient energy transfer.
+
+## PROBLEM 2
+# A rectangular waveguide with dimensions 𝑎 = 2.5 cm b=1.5cm operates at a frequency of 8 GHz.
+# (i) Calculate the cutoff frequency for the TE₁₀ mode.
+# (ii) Determine whether the TE₁₀ mode will propagate at 8 GHz.
+# (iii) Explain why the TE₁₀ mode is the dominant mode in rectangular waveguides.
+
+## ANSWER
+
+# (i) Cutoff Frequency
+<img width="314" height="96" alt="image" src="https://github.com/user-attachments/assets/af8d2808-3099-4e64-ac05-869e8f06c8d5" />
+
+For TE₁₀: m=1,n=0
+
+<img width="373" height="99" alt="image" src="https://github.com/user-attachments/assets/c526be0e-f41c-4617-aaa2-74adf1ed4d72" />
+
+# (ii) Propagation Condition
+
+Since ,f = 8 GHz > fc = 6 GHz ,
+
+TE₁₀ mode will propagate.
+
+# (c) Conceptual Explanation (1.5 marks)
+
+•	The TE₁₀ mode is the dominant mode because it has the lowest cutoff frequency among all possible modes.
+
+•	It offers maximum power transmission with minimum attenuation.
+
+•	Used in practical systems like microwave guides and radar feeds for efficiency.
