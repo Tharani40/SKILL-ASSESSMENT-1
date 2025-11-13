@@ -104,7 +104,7 @@ Since ,f = 8 GHz > fc = 6 GHz ,
 
 TE₁₀ mode will propagate.
 
-# (c) Conceptual Explanation (1.5 marks)
+# (c) Conceptual Explanation 
 
 •	The TE₁₀ mode is the dominant mode because it has the lowest cutoff frequency among all possible modes.
 
